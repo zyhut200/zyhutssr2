@@ -86,3 +86,7 @@ auto eth0:19
 iface eth0:19 inet static
 address 10.0.0.23
 netmask 255.255.255.000
+auto eth0:20
+iface eth0:20 inet static
+address 10.0.0.24
+netmask 255.255.255.000
